@@ -1,3 +1,7 @@
+> This is a Java-implemented Maze Game. I will upload some demo pictures later here.
+
+# Implementation
+
 ## Classes and Data Structures
 
 ### Classes
